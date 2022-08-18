@@ -1,0 +1,2 @@
+com/thoughtworks/rectangle/Rectangle.java
+ com.thoughtworks.rectangle.Rectangle
