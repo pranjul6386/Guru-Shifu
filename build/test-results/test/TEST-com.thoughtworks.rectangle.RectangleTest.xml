@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.thoughtworks.rectangle.RectangleTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-08-16T13:14:32" hostname="gurushifu-gurushifugitp-2v28le5lh2m" time="0.02">
-  <properties/>
-  <testcase name="shouldReturnPerimeterWhenLengthAndBreadthAreGiven()" classname="com.thoughtworks.rectangle.RectangleTest" time="0.016"/>
-  <testcase name="shouldReturnAreaWhenLengthAndBreadthAreGiven()" classname="com.thoughtworks.rectangle.RectangleTest" time="0.002"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
